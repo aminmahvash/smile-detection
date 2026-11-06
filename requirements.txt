@@ -1,0 +1,8 @@
+torch
+torchvision
+facenet-pytorch
+kagglehub
+opencv-python
+albumentations
+scikit-learn
+matplotlib
